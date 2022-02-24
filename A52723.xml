@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To those who were in authority, whom the Lord is now judging, that they may repent and find mercy from God</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52723</idno>
+            <idno type="STC">Wing N321A</idno>
+            <idno type="STC">ESTC R42188</idno>
+            <idno type="EEBO-CITATION">24335812</idno>
+            <idno type="OCLC">ocm 24335812</idno>
+            <idno type="VID">109671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109671)</note>
+            <note>Images scanned from microfilm: (Early English books,   1641-1700 ; 1708:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To those who were in authority, whom the Lord is now judging, that they may repent and find mercy from God</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.N.</note>
+                  <note>Attributed to James Naylor by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Society of Friends --  Doctrinal works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109671:1" rendition="simple:additions"/>
+            <head>To thoſe who <hi>were</hi> in AUTHORITY, WHOM The Lord is now Iudging, That they may Repent and find Mercy from God.</head>
+            <p>OH! men of <hi>England,</hi> whoſe <hi>day</hi> is over, and whoſe <hi>time</hi> is paſſed away from you, and you are now left as men in <hi>deſolation and darkneſs</hi>; you had a large day and time to have done good, and to have anſwered Gods requirings of you, and your engagements to him, and ſo to have laid up treaſure with God againſt the <hi>evil day,</hi> which is come <hi>from far</hi> upon you; and you had a large time and a great power in your day to have made you Friends of the unrighteous <hi>Mammon</hi> by doing juſtly and ſhewing mercy therein, that ſo you might have had <hi>a habitation</hi> in the day of adverſity; and in your day the Heavens were fair and the <hi>Son gave you his light,</hi> ſhining upon you through many <hi>Clouds</hi> that ſeemed to ariſe, over which he ſent you light, that <hi>in his light</hi> you might have walked and ſeen light, and his viſitations and riſings towards you was <hi>often,</hi> and his appearance was <hi>lovely</hi> towards you, even as a calm Sun ſhine after a ſtormy tempeſt, and as warm clearneſs after rain, to the ſoftning of the earth and to make it fruitful, that he might have received of his tillage a good favour from the fruit of his labours, and have bleſſed you; But Oh p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople! you would not hear nor regard <hi>in that day</hi> when his work was good towards you every morning, and his mercies upon you all the day long; but you grew high and lofty in your ſelves, and proud in your mindes, and ſelf-conceited and ſelf-ended, and hardned your hearts againſt <hi>his tender witneſs in your Conſcience,</hi> and walked rebelliouſly againſt his good Spirit in your own hearts, and he could not cauſe you to hear, but you grew p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt feeling of any thing that is called God in you.</p>
+            <p>Then you daily waxed fat, and fulneſs encreaſed, and pride gendred into your hearts, and you grew wanton and kicked againſt him that bore you, and made light of his pricks in your Conſciences; thus was your ear ſtopt towards God, and you wholly loſt from all that he might ſpeak unto you in Spirit or Counſel, or fear, and from the way of his teaching and reproof you was ut<g ref="char:EOLhyphen"/>terly gone, and had removed your hearts far away from hearing his voice, for you had filled them with pride and vain glory, and your unjuſt gain had made many of them even as the <hi>nether mill ſtone,</hi> ſo you became unmoveable in your way.</p>
+            <p>Then did the Lord raiſe him up Servants that <hi>would bear,</hi> and gave them <hi>his light</hi> to ſee what you were doing againſt the Lord your God, who had redee<g ref="char:EOLhyphen"/>med you out of all adverſity, and had raiſed you up out of a <hi>low estate,</hi> and had done for you exceedingly, even to win you as a people to himſelf; and alſo what God was a doing againſt you, becauſe of this your contrary walking towards him, and that he would <hi>certainly bring you down before your enemies, if you did not return and humble your ſelves before him</hi>; And theſe he ſent a<g ref="char:EOLhyphen"/>mongſt you with his Word, riſing early and ſending them to ſpeak his minde expreſly what he minded to do, and it could no longer ſlumber, but you would not hear, neither would you believe, but the ſame which had ſtopt your ear and hardned your hearts in your own ſelves from feeling, that had wrought too ſuch hardneſs, dulneſs and unbelief, till <hi>Gods Word</hi> could have no entrance into you, nor his Servants liberty to walk among you to publiſh it, but you begun to queſtion in your unbelief, whether it was <hi>the Word,</hi> and in your pride to ſcorn it, and in the hardneſs of your hearts then you begun to perſecute the Meſſengers of the Lord, which he ſent with it to you for your good, and ma<g ref="char:EOLhyphen"/>ny hundreds ſuffered in all parts of the Nation upon this account, till there was no hope of your hearing or obeying the voice of your return.</p>
+            <p>Then did the Lord raiſe up Signes and Wonders among you, if by any means he might appear as one to be feared or obſerved by you; <hi>And he ſtript his Children naked and ſent them among you,</hi> and ſome he cloathed in <hi>Sack<g ref="char:EOLhyphen"/>cloth</hi>; as mourning over you, and ſome with <hi>Aſhes upon their heads</hi> he ſent into your Aſſemblies of worſhips, and your Aſſemblies in your Feaſts, and of your Faſts, which was all abominable to him, while you walked in your own waies and would not hear his voice; but theſe you uſed worſe then formerly, and your rage encreaſed in <hi>ſtocking, beating, whipping and impriſoning,</hi> until the Cry of oppreſſion was ſo great that there was no remedy; and then the Lord aroſe <hi>and ſhaked you in pieces,</hi> as a mighty one in his anger, and broke you with ſuch a breach ſo as you could not be healed, nor be a power any longer, and ſo hath brought <hi>the wheel over you, and from far without help hath be cauſed the Rod to bloſsom.</hi>
+            </p>
+            <p>And the Juſt Lord is now ſeen in the midſt of you, and which of you is able to ſtand befor him in Judgment, or to condemn him in the thing he hath done; and Captivity is taken captive before him, and you that did impriſon are im<g ref="char:EOLhyphen"/>priſoned, and you that ſought to make your ſelves dreadful by oppreſſion, now knows not where to hide your ſelves from the <hi>mighty day</hi> that's coming upon you from the God of the whole earth.</p>
+            <p>And now this is the Word of the Lord to you all you <hi>ſturdy Oakes and tall fruitleſs Trees,</hi> whom the wind of the fierce wrath of the Almighty hath thus ſhaken; Hear <hi>the Rod</hi> and who hath appointed it, <hi>and how</hi> before the terrible Judge of <hi>all fleſh,</hi> and ſeek not to ſave your ſelves with your former Conſulta<g ref="char:EOLhyphen"/>tions, with that ſpirit in which you have alwayes <hi>rebelled againſt God</hi> till this day, and in whoſe Counſel you have wrought this great evil to provoke the Lord, and in which you have ever rejected his Word in your ſelves and others; <hi>neither truſt to your Friends</hi> to make fleſh your arm yet further to provoke the Lord to your utter confuſion; neither truſt in your <hi>prayers or performances,</hi> or ought you can do, while you are in that <hi>rebellious ſpirit</hi> of diſobedience to Gods witneſs in your own Conſciences; for verily God will not hear you, while you are unwilling to hear him; And now for this he is come near you at laſt to Judgement, and he hath brought <hi>near his Righteouſneſs</hi> that you might ſee it, and lay hold on it <hi>and make peace therewith</hi> now at laſt for your Souls, that you may be ſaved, <hi>and your return muſt be firſt to that Spirit againſt whom you have ſinned, there to make peace.</hi>
+            </p>
+            <p>And now ſpend not your time in <hi>vain talks</hi> &amp; vain practiſes, and ſo ſtill ſerve that evil ſpirit that hath all along betrayed you of your obedience to God, but wait to feel that Spirit which calls you to <hi>mourn apart</hi> every one for the evils of his <hi>own heart</hi> againſt his God, and let that be minded which leads to repen<g ref="char:EOLhyphen"/>tance towards God firſt, that if <hi>by any means</hi> you may find a place for repen<g ref="char:EOLhyphen"/>tance, <hi>which will be hard for many of you to do,</hi> you have ſo long diſſembled with God, and betrayed his witneſs in you through deceit; for this is the truth to you all, if you find that from the Lord <hi>in Spirit,</hi> that will let you ſee the evils of pro<g ref="char:EOLhyphen"/>vocation and give you power to put it off, <hi>whatever it be,</hi> you will find favour with God therein for your Souls; but if you find not that Spirit you will find ſmall peace with God, and then that which men can do for you will be little available; for it is for want of hearing and obedience towards God that all this evil is come upon you, which muſt be turned to, ere it can be taken <hi>ever<g ref="char:EOLhyphen"/>laſtingly off</hi>; for if you had hearkned to his light <hi>in</hi> your Conſciences, and his Word had had a place <hi>in</hi> your hearts to obedience, when you was <hi>yet tender,</hi> then would it have kept you in his fear, ſo that you durſt not have covered that <hi>curſed thing,</hi> with which you hid and covered that <hi>Juſt Principle</hi> in you, and blinded your eyes with the riches and ſpoil of your enemies, nor durſt you have fet up what you had caſt down, and got into their Eſtates, and ſo into their pride by unrighteous gain, whom God had caſt out; then had you not provoked God by theſe things to your utter ruining; or if after this was entred upon you, you had hearkned to his reproof, and put this off your ſelves with his Spirit, then had he not brought this <hi>terrible Beſom to ſweep it away from off you, and from within you,</hi> who hath left you no place <hi>to hide your glory or your riches,</hi> where his hand ſhall not reach, and his eye find them out.</p>
+            <p>And there is now no hope for agreement with God <hi>in your ſelves</hi> nor that he will ceaſe his anger againſt you, till you return to that from which you depar<g ref="char:EOLhyphen"/>ted, that the ſame Spirit may be confeſſed and glory given thereto by putting off in his Counſel and Motion that which was put on in your Counſels againſt that Spirit and <hi>his light in your own Conſciences,</hi> and alſo in many others whoſe Souls were troubled and grieved for you in that day, and this the Lord God looks for, that <hi>glory he given to the Juſt in his fight, and in the fight of all before whom his Name hath been blaſphemed.</hi>
+            </p>
+            <p>And this is now the work of this your day while you have a little time, and for this he waits and forbears, that he may be gratious to your Souls for his Names ſake; and it is not a time for you to <hi>ſleep and ſit at eaſe,</hi> nor ſpend your time in vanity, nor ſeek to hide that which God is reſolved to declare o<g ref="char:EOLhyphen"/>penly, nor with fleſhly Counſel ſeek to ſave that which God will deſtroy; its time now at laſt to ſee what that ſelfiſh ſpirit and its counſel hath done for you, and repent of it, by following whereof all this evil is come upon you, <hi>for your Authority hath vomited you out, your glory hath left you naked, and your riches cannot profit you in this day of wrath from the Almighty.</hi> This was I moved of the Lord to write to you.</p>
+            <closer>
+               <signed>J. N.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
